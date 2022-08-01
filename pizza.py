@@ -21,22 +21,22 @@ else:
 
 
 
-#Downtown = ['Pizzeria Di Giovanni', 'Renzo', 'Melfis', 'DAllesandro', 'Frannie and the Fox', 'Monza',  'Benny Ravellos', 'Sabatinos  Pizza', 'Baker and Brewer', 'Uneeda Sicilian', 'Renzo', 'Baked Pizzeria']
-#print(random.choice(Downtown))
+Downtown = ['Pizzeria Di Giovanni', 'Renzo', 'Melfis', 'DAllesandro', 'Frannie and the Fox', 'Monza',  'Benny Ravellos', 'Sabatinos  Pizza', 'Baker and Brewer', 'Uneeda Sicilian', 'Renzo', 'Baked Pizzeria']
+print(random.choice(Downtown))
 
-#WestAshley = ['Slice', 'Marios',  'Baronis', 'Andolinis']
-#print(random.choice(WestAshley))
+WestAshley = ['Slice', 'Marios',  'Baronis', 'Andolinis']
+print(random.choice(WestAshley))
 
-#NCharleston = ['Evo Pizzeria', 'Park Pizza Co']
-#print(random.choice(NCharleston))
+NCharleston = ['Evo Pizzeria', 'Park Pizza Co']
+print(random.choice(NCharleston))
 
-#JamesIsland = ['Famiularis Pizzeria', 'Crust Wood Fired Pizza', 'Dough Boy', 'Paisanos Pizza Grill']
-#print(random.choice(JamesIsland))
+JamesIsland = ['Famiularis Pizzeria', 'Crust Wood Fired Pizza', 'Dough Boy', 'Paisanos Pizza Grill']
+print(random.choice(JamesIsland))
 
-#MtPleasant =  ['La  Pizzeria', 'The Obstinate Daughter']
-#print(random.choice(MtPleasant))
+MtPleasant =  ['La  Pizzeria', 'The Obstinate Daughter']
+print(random.choice(MtPleasant))
 
-#DanielIsland = ['Vespa  Pizzeria', 'Orlandos  Pizza']
-#print(random.choice(DanielIsland))
+DanielIsland = ['Vespa  Pizzeria', 'Orlandos  Pizza']
+print(random.choice(DanielIsland))
 
 
